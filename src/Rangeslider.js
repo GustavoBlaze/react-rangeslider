@@ -34,7 +34,7 @@ class Slider extends Component {
     value: PropTypes.number,
     orientation: PropTypes.string,
     tooltip: PropTypes.bool,
-    hasTooltipFixed: PropTypes.fixed,
+    hasTooltipFixed: PropTypes.bool,
     reverse: PropTypes.bool,
     labels: PropTypes.object,
     handleLabel: PropTypes.string,
