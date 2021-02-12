@@ -371,6 +371,7 @@ class Slider extends Component {
               className='rangeslider__handle-tooltip'
               >
               <span>{this.handleFormat(value)}</span>
+              <div className="rangeslider__handle-tooltip__triangle"></div>
             </div>
             : null}
           <div className='rangeslider__handle-label'>{handleLabel}</div>
