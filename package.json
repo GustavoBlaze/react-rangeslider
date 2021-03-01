@@ -1,5 +1,5 @@
 {
-  "name": "@luiz.gustavo/react-rangeslider",
+  "name": "@cyberweb/react-rangeslider",
   "version": "1.0.2",
   "description": "A lightweight react component that acts as a HTML5 input range slider polyfill",
   "main": "lib/index.js",

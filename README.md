@@ -30,13 +30,13 @@
 Using `npm` (use `--save` to include it in your package.json)
 
 ```bash
-$ npm install @luiz.gustavo/react-rangeslider --save
+$ npm install @cyberweb/react-rangeslider --save
 ```
 
-Using `yarn` (this command also adds @luiz.gustavo/react-rangeslider to your package.json dependencies)
+Using `yarn` (this command also adds @cyberweb/react-rangeslider to your package.json dependencies)
 
 ```bash
-$ yarn add @luiz.gustavo/react-rangeslider
+$ yarn add @cyberweb/react-rangeslider
 ```
 
 
